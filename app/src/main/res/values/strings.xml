@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Firestore</string>
+    <string name="class1">Class</string>
+    <string name="name">Name</string>
+    <string name="save">Save</string>
+    <string name="fetch">Fetch</string>
+    <string name="name_and_class">Name and class</string>
+</resources>
